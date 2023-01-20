@@ -1,4 +1,4 @@
-## Course: Programming Languages and Methods, Instrumental Methods for Mathematical Modelling
+## Course: Programming Languages and Instrumental Methods for Mathematical Modelling
 > Algorithms: Applications
 > * Gradient Descent:
 >> * [Mulitiparameter Optimization](https://github.com/SanjarNormuradov/Programming_Languages_Methods/blob/main/07-MultiParametric_Optimization.py)
